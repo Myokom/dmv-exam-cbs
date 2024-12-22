@@ -4,7 +4,7 @@
 
 CREATE TABLE IF NOT EXISTS public.listings
 (
-    id integer NOT NULL DEFAULT nextval('listings_id_seq'::regclass),
+    id bigint NOT NULL DEFAULT nextval('listings_id_seq'::regclass),
     listing_url text COLLATE pg_catalog."default" NOT NULL,
     scrape_id bigint NOT NULL,
     last_scraped date NOT NULL,
@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS public.listings
     bathrooms_text text COLLATE pg_catalog."default",
     bedrooms integer NOT NULL,
     beds integer NOT NULL,
-    amenities text COLLATE pg_catalog."default" NOT NULL,
+    amenities text COLLATE pg_catalog."default",
     price double precision,
     minimum_nights integer NOT NULL,
     maximum_nights integer NOT NULL,
