@@ -1,3 +1,5 @@
 # Ignore all the two CSV files "celanda2024" and "reviews2024"
 og_data/calendar2024.csv
 og_data/reviews2024.csv
+
+.DS_Store
