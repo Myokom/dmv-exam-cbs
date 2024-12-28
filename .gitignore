@@ -5,3 +5,5 @@ og_data/reviews2024.csv
 cleaned_data/cleaned_reviews.csv
 cleaned_data/cleaned_calendar.csv
 .DS_Store
+
+analytical_database/*
