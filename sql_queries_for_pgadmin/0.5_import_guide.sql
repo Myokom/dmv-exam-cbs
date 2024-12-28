@@ -10,3 +10,4 @@ NULL '';
 
 
 --- Example of path: /Users/tobiasmadsen/Documents/Education/MSc/CBS/Data Management & Visualization/DMV_Exam/DMV_Exam_Code/cleaned_data/cleaned_calendar.csv
+

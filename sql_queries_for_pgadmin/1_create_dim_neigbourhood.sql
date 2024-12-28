@@ -5,15 +5,15 @@
 CREATE TABLE IF NOT EXISTS public.dimension_neighborhood (
     neighborhood_id SERIAL PRIMARY KEY, -- Auto-incremented ID
     neighborhood TEXT,
-    neighborhood_cleansed TEXT,
+    neighborhood_cleansed TEXT
 );
 
 
 --- 2. POPULATE WITH DATA
-INSERT INTO public.dimension_neighborhood (neighborhood, neighborhood_cleansed, neighborhood_group_cleansed)
+INSERT INTO public.dimension_neighborhood (neighborhood, neighborhood_cleansed)
 SELECT DISTINCT
-    neighbourhood_cleansed AS neighborhood,
-  
+    neighbourhood AS neighborhood,
+    neighbourhood_cleansed AS neighborhood_cleansed
 FROM public.listings
 WHERE neighbourhood_cleansed IS NOT NULL;
 
