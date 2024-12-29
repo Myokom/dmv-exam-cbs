@@ -30,7 +30,7 @@ FROM
 LEFT JOIN 
     public.dimension_neighborhood dn
 ON 
-    l.neighbourhood_cleansed = dn.neighborhood_cleansed;
+    l.neighbourhood_cleansed = dn.neighborhood;
 
 --- TEST 
 SELECT * FROM fact_listings LIMIT 1000;
