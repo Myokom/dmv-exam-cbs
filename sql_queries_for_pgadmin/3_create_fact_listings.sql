@@ -5,6 +5,7 @@ SELECT
     l.id AS listing_id,                       -- Primary Key for the fact table
     l.host_id,                                -- Foreign Key to DimensionHost
     dn.neighborhood_id,                      -- Foreign Key to DimensionNeighborhood
+    l.scrape_id,
     l.price AS listing_price,
     l.accommodates,
     l.bathrooms,
