@@ -5,6 +5,7 @@ SELECT
     l.id AS listing_id,                       -- Primary Key for the fact table
     l.host_id,                                -- Foreign Key to DimensionHost
     dn.neighborhood_id,                      -- Foreign Key to DimensionNeighborhood
+    l.scrape_id,
     l.price AS listing_price,
     l.accommodates,
     l.bathrooms,
@@ -30,7 +31,7 @@ FROM
 LEFT JOIN 
     public.dimension_neighborhood dn
 ON 
-    l.neighbourhood_cleansed = dn.neighborhood_cleansed;
+    l.neighbourhood_cleansed = dn.neighborhood;
 
 --- TEST 
 SELECT * FROM fact_listings LIMIT 1000;
