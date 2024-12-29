@@ -11,10 +11,14 @@ SELECT
     longitude,
     property_type,
     room_type,
+    bathroom_type,
     amenities,
     minimum_nights,
     maximum_nights,
-    instant_bookable
+    instant_bookable,
+    has_availability,
+    first_review,
+    last_review
 FROM 
     public.listings;
 
