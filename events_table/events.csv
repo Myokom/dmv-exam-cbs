@@ -1,0 +1,61 @@
+event_id,Start Date,End Date,Event Name,Event Description,Event Location,Est Attendance
+1,2024-06-25,2024-06-29,CPH Distortion Festival,Celebration of street life and dance music.,CPH (Various Locations),100000
+2,2024-07-05,2024-07-14,CPH Jazz Festival,Internationally renowned jazz festival.,CPH (Various Locations),250000
+3,2024-08-01,2024-08-05,CPH Fashion Week S/S 2025,Scandinavian fashion showcase.,CPH (City Center),30000
+4,2024-11-15,2025-01-05,Christmas Fair in Tivoli Gardens,Festive market in Tivoli Gardens.,"Tivoli Gardens, CPH",500000
+5,2025-01-30,2025-02-23,Vinterjazz Festival,Nationwide jazz festival with concerts.,CPH (Various Locations),100000
+6,2025-06-21,2025-06-22,CPH Sprint Cycling Race,World Tour cycling event ending in CPH.,CPH,20000
+7,2025-06-19,2025-06-19,Robbie Williams Concert,Robbie Williams performs at Parken Stadium.,"Parken Stadium, CPH",38000
+8,2024-08-09,2024-08-17,CPH Pride Week,Annual LGBTQ+ festival with parades and events.,CPH (City Center),25000
+9,2024-08-03,2024-08-14,CPH Summer Festival,Classical music festival showcasing talents.,CPH (Various Venues),5000
+10,2024-12-31,2025-01-01,New Year’s Eve Celebrations,City-wide festivities to welcome the New Year.,CPH (City-wide),50000
+11,2025-06-28,2025-07-05,Roskilde Festival,One of Europe’s largest music festivals.,"Roskilde, near CPH",130000
+12,2025-07-04,2025-07-13,CPH Jazz Festival 2025,Annual jazz festival attracting global artists.,CPH (Various Venues),250000
+13,2025-08-01,2025-08-05,CPH Fashion Week S/S 2026,Showcase of upcoming Scandinavian fashion trends.,CPH (City Center),30000
+14,2025-08-09,2025-08-17,CPH Pride Week 2025,Annual LGBTQ+ festival with parades and events.,CPH (City Center),25000
+15,2025-08-03,2025-08-14,CPH Summer Festival 2025,Classical music festival featuring young talents.,CPH (Various Venues),5000
+16,2025-12-31,2026-01-01,New Year’s Eve Celebrations 2025,City-wide festivities to welcome the New Year.,CPH (City-wide),50000
+17,2024-09-05,2024-09-07,CPH Cooking & Food Festival,Culinary festival celebrating Nordic cuisine.,CPH (Various Venues),10000
+18,2024-11-01,2024-11-01,J-Day Celebrations,Celebration of the release of Christmas beer.,CPH (City Center),15000
+19,2025-02-14,2025-02-16,Winter Light Festival,Illuminating installations brightening the winter.,CPH (Various Venues),20000
+20,2025-04-01,2025-04-03,April Fools’ Comedy Festival,Comedy festival featuring international acts.,CPH (Various Venues),8000
+21,2025-05-15,2025-05-17,CPH Marathon,Annual marathon through CPH’s streets.,CPH (City Streets),10000
+22,2025-06-15,2025-06-17,Midsummer’s Eve Festivities,Traditional celebrations with bonfires.,CPH (Various Locations),20000
+23,2025-07-10,2025-07-12,CPH Opera Festival,Opera performances in various city venues.,CPH (Various Venues),15000
+24,2025-08-20,2025-08-22,Strøm Festival,Electronic music festival with international DJs.,CPH (Various Venues),10000
+25,2025-09-10,2025-09-12,TechBBQ Summit,Tech conference bringing together startups and investors.,CPH (Conference Center),5000
+26,2025-10-05,2025-10-07,CPH Blues Festival,Festival celebrating blues music.,CPH (Various Venues),8000
+27,2025-11-20,2025-11-22,CPH Christmas Beer Festival,Festival featuring a variety of Christmas beers.,CPH (Various Venues),5000
+28,2025-12-10,2025-12-12,Santa Lucia Kayak Parade,Kayak parade with participants holding torches.,CPH Canals,2000
+29,2024-08-17,2024-08-18,Copenhagen Historic Grand Prix,"A historic race featuring classic cars and vintage old-timers, taking place in and around the streets of Copenhagen.","Bellahøj Park, CPH",50000
+30,2025-03-31,2025-04-01,Sabrina Carpenter Concerts,Pop concert featuring one of 2024s most streamed artists,Royal Arena,20000
+31,2024-08-08,2024-08-10,Syd For Solen,Music festival in Valbyparken,Valbyparken,30000
+32,2025-04-28,2025-04-29,Billie Eilish Concerts,Global pop icon Billie Eilish embarks on her electrifying HIT ME HARD AND SOFT arena tour,Royal Arena,20000
+33,2025-05-07,2025-05-07,"Tyler, The Creator Concert","Tyler, The Creator brings his dynamic CHROMAKOPIA: THE WORLD TOUR to Copenhagen",Royal Arena,10000
+34,2025-05-09,2025-05-09,The Lumineers Concert,World famous folk-rock band from Colorado performs in Copenhagen,Royal Arena,10000
+35,2024-06-29,2024-07-06,Roskilde Festival,"Biggest festival in Denmark, hosted in Roskilde",Roskilde,130000
+36,2024-07-18,2024-07-18,Grøn Koncert,One-day festival in Tårnby,Tårnby ,15000
+37,2025-05-30,2025-05-30,Tate McCrae Concert,Multi-platinum global pop sensation brings her chart-topping Miss Possessive Tour to Copenhagen,Royal Arena,10000
+38,2024-07-28,2024-07-28,Grøn Koncert ,One-day festival in Valby,Valby ,15000
+39,2024-07-18,2024-07-20,Musik i Lejet,Festival in Tisvildeleje,Tisvildeleje,20000
+40,2024-06-09,2024-06-09,Iron Maiden Concert,Legendary heavy metal band brings their RUN FOR YOUR LIVES WORLD TOUR to Copenhagen,Royal Arena,10000
+41,2025-10-19,2025-10-19,Katy Perry Concert,Global pop icon brings her hit-packed The Lifetimes Tour to Copenhagen,Royal Arena,10000
+42,2024-07-26,2024-07-27,Carpark Festival,Festival from emerging artists in Bispeengbuen,Frederiksberg ,10000
+43,2025-06-08,2025-06-08,Gabriel Iglesias Comedy Show,"Comedy superstar Gabriel Iglesias brings his Don’t Worry, Be Fluffy Tour to Copenhagen",Royal Arena,10000
+44,2025-09-13,2025-09-13,Ricky Gervais Comedy Show,"Award-winning comedian Ricky Gervais brings his new stand-up show, Mortality, to Copenhagen",Royal Arena,10000
+45,2024-08-01,2024-08-03,AiaSound,Festival in Amager,Amager ,60000
+46,2025-03-20,2025-03-20,Danmark - Portugal (football),Denmark welcomes Portugal for an exciting football at Parken ,Parken,40000
+47,2024-08-15,2024-08-17,Uhørt Festival ,Festival for more than 40 upcoming artists at Copenhagen Skatepark,Sydhavn ,2000
+48,2025-02-13,2025-02-15,CPH Gaming Week,"Gaming festival (family friendly) offering activities such as Fortnite, football, Pokémon, e-sports, collectible cards, and board games.",Bella Center Copenhagen,20000
+49,2024-09-15,2024-09-15,CPH Half 2024,Copenhagen welcomes runners from around the world for the Copenhagen Half Marathon,CPH (City Streets)	,30000
+50,2025-09-14,2025-09-14,CPH Half 2025,Copenhagen welcomes runners from around the world for the Copenhagen Half Marathon,CPH (City Streets)	,30000
+51,2025-01-30,2025-02-28,Vinter Jazz,Jazz festival in Copenhagen ,CPH (Various Venues) ,25000
+52,2024-05-05,2024-05-05,CPH Marathon,Copenhagen welcomes runners from around the world for the Copenhagen Marathon,CPH (City Streets)	,17500
+53,2025-01-31,2025-02-23,CPH Light Festival ,Copenhagen Light Festival is a light festival with colorful art,CPH (Various Venues) ,500000
+54,2025-06-19,2025-06-21,Copenhell Festival,A massive rock and metal festival bringing thunderous energy to Copenhagen’s Refshaleøen.,Refshaleøen,40000
+55,2025-08-17,2025-08-17,Ironman Copenhagen,"A premier triathlon event where athletes tackle swimming, cycling, and running through the scenic streets of Copenhagen",CPH (Various Venues) ,5000
+56,2024-08-18,2024-08-18,Ironman Copenhagen,"A premier triathlon event where athletes tackle swimming, cycling, and running through the scenic streets of Copenhagen",CPH (Various Venues) ,5000
+57,2025-08-15,2025-08-24,CPH Cooking & Food Festival,Culinary festival celebrating Nordic cuisine.,CPH (Various Venues) ,10000
+58,2025-06-21,2025-06-22,CPH Sprint,Two professional cycling races in the city centre,CPH (City Streets)	,7000
+59,2025-04-20,2025-04-21,Club Awards,EDM party with the biggest Danish and international DJs,Bella Arena,20000
+60,2025-06-04,2025-06-08,Distortion,Streetparty in Copenhagen ,CPH (various Venues) ,100000
