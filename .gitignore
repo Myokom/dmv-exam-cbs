@@ -1,6 +1,8 @@
 # Ignore all the two CSV files "celanda2024" and "reviews2024"
 og_data/*
-cleaned_data/*
+cleaned_data/cleaned_calendar.csv
+cleaned_data/cleaned_listings.csv
+cleaned_data/cleaned_reviews.csv
 .DS_Store
 
-testing_misc_scrap/analytical_database/*
+testing_misc_scrap/*
